@@ -33,6 +33,9 @@ Things you will naturally discover is left out of this list.
 - Farmer's Delight: Cooking. Food.
 - Ender Chests/Tanks: Instant fluid/item transport.
 - Waystones: Instant player transport.
+- Blåhaj: Take a guess.
+- Press Alt To Meow: Press `Alt` to meow.
+- Harvest with ease: Right click to harvest crops.
 
 #### Decoration mods
 This is split off from Small mods cause there's a few in this alone

@@ -174,6 +174,11 @@ hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "89bb56905d4e8e11df7017c86ae7b8d04d0ba22dc164f02bad26bc631cbcc423"
 metafile = true
 
 [[files]]
@@ -408,6 +418,11 @@ hash = "5213b7d2f88e92f1903295de37db55684656a66b1e85b791673500947088340a"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "0195207015a3f9e6004c67851614b96b3fded344a4367d3164e3051cf5a986ea"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "939c0a6c9b93b3947270b726fde30e1e4fbd919c8ea6bc5828b684bda74bf418"
 metafile = true
@@ -415,6 +430,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9f6be9ced23c3142f02baeaf9a543e3e12dee944588185c5e1cfd90ddb22dc99"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "5699f373776cb44fabaef74a218460de424ba231becf849cde327fa9a72f6cec"
 metafile = true
 
 [[files]]
@@ -550,6 +570,11 @@ hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
@@ -586,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/portable-crafting.pw.toml"
 hash = "e4c57c278c39f7aa62abc6eb2ea81a3d90e272a0b4cc8db7e5223f90f3249afa"
+metafile = true
+
+[[files]]
+file = "mods/pressalttomeow.pw.toml"
+hash = "7407da7cb551ce90a05e721d3e65460c38416a4fc88e6fb646e4cce33a6f8a0e"
 metafile = true
 
 [[files]]
@@ -761,11 +791,6 @@ metafile = true
 [[files]]
 file = "mods/way2wayfabric.pw.toml"
 hash = "e79a6b46dc08c8bf62c0279ceb3ae32b3294025b56e910ded63e781337cb304e"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "53d413fdba41f091f3eb245de5cda4fa7b3d07b4eaf7c4b914d07a57e1e95fc9"
 metafile = true
 
 [[files]]
