@@ -1,0 +1,13 @@
+name = "Almost Unified"
+filename = "almostunified-fabric-1.20.1-0.7.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/p33YZ9DO/almostunified-fabric-1.20.1-0.7.2.jar"
+hash-format = "sha512"
+hash = "017a14d41dcce42aaa6a91625890b1e175feec3f1eec4eed074422144cb4be4c3f70b478e5f7d0cf5296c007c3ca7c173678d9751b300d817c70c575767b0c62"
+
+[update]
+[update.modrinth]
+mod-id = "sdaSaQEz"
+version = "p33YZ9DO"

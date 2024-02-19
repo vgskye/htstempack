@@ -1,0 +1,13 @@
+name = "Simple Magnets"
+filename = "simplemagnets-1.1.10-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YyNQVpOu/versions/wnRRvAet/simplemagnets-1.1.10-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "61837c578c993651727803fc29f5adc8277ff4c43c21b2362f2b053ccab161217c7e45bc2d931f4211353e5186674127d11f52863dc7999d3844b2ffadda915b"
+
+[update]
+[update.modrinth]
+mod-id = "YyNQVpOu"
+version = "wnRRvAet"

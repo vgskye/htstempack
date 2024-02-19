@@ -1,0 +1,13 @@
+name = "Accelerated Decay"
+filename = "accelerated-decay-fabric-3.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/laX5CckD/versions/gPvUi9eS/accelerated-decay-fabric-3.0.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "60970e0543bb64f6809ca17855ed0598932ec0b51529f9977288ad7b032f0b492a94d620a5c74fe54cc4f029f14128fb15294e183f5ffc5498dc88cfb03fb25e"
+
+[update]
+[update.modrinth]
+mod-id = "laX5CckD"
+version = "gPvUi9eS"

@@ -1,0 +1,13 @@
+name = "Geckolib"
+filename = "geckolib-fabric-1.20.1-4.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/KImFOI2k/geckolib-fabric-1.20.1-4.4.2.jar"
+hash-format = "sha512"
+hash = "2e889f85655ff597af27dae17d94769afa2559e3f980626ad2738ed658d3a2c46cafb5d4c3f5a44b67cd405f58d170a8c3ff4bff4926fa4a7e0da699ca352050"
+
+[update]
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "KImFOI2k"

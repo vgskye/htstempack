@@ -1,0 +1,18 @@
+name = "AE2 EMI Crafting Integration"
+filename = "ae2-emi-crafting-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eVAp8Nkw/versions/jHaxpD7d/ae2-emi-crafting-1.0.1.jar"
+hash-format = "sha512"
+hash = "2bcd5fbad9111c9beeac9a39c87084a77fd9d91dd10320cb1961c4e189ff6a429f4f6595374d7b54eb42f12f3a042d2f18065c913dc0d3d3ca51d838f0480b33"
+
+[update]
+[update.modrinth]
+mod-id = "eVAp8Nkw"
+version = "jHaxpD7d"
+
+[option]
+optional = true
+description = "EMI Addon. disable with EMI."
+default = true

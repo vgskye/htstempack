@@ -1,0 +1,13 @@
+name = "Wireless Networks"
+filename = "wirelessnetworks-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fNbraXJk/versions/og6SKuLx/wirelessnetworks-1.7.1.jar"
+hash-format = "sha512"
+hash = "45e15fb4606c8ea20e7b44780b2bbb8cf3fdc1bbc901217e03b60492b9a2b2ec923bb53de12066c3124ee787e442b314df3133ecbd35cf037a02a3191c28e79e"
+
+[update]
+[update.modrinth]
+mod-id = "fNbraXJk"
+version = "og6SKuLx"

@@ -1,0 +1,13 @@
+name = "MEGA Cells"
+filename = "megacells-fabric-2.2.9-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/ppXpGJ6y/megacells-fabric-2.2.9-1.20.1.jar"
+hash-format = "sha512"
+hash = "6ec69a9398e3972a739037e4089c3184e7922411ffbc29b406e9b35fce1359b9dd61bf5b12cfc925946f372e7bc973f61849245cf30a67e03ec6af94b02d6d58"
+
+[update]
+[update.modrinth]
+mod-id = "jjuIRIVr"
+version = "ppXpGJ6y"

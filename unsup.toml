@@ -1,0 +1,44 @@
+[flavor_groups.emi]
+name = "EMI"
+description = "Recipe viewer."
+side = "client"
+choices = ["emi_off", "emi_on"]
+
+[flavor_groups.jade]
+name = "Jade"
+description = "WAILA-like."
+side = "client"
+choices = ["jade_off", "jade_on"]
+
+[flavor_groups.xaero]
+name = "Xaero's Maps"
+description = "The minimap and world map."
+side = "client"
+choices = ["xaero_off", "xaero_on"]
+
+[metafile.emi]
+flavors = ["emi_on"]
+[metafile.emi-loot]
+flavors = ["emi_on"]
+[metafile.emi-enchanting]
+flavors = ["emi_on"]
+[metafile.ae2-emi-crafting]
+flavors = ["emi_on"]
+[metafile.emitrades]
+flavors = ["emi_on"]
+[metafile.emiffect]
+flavors = ["emi_on"]
+[metafile.extra-mod-integrations]
+flavors = ["emi_on"]
+
+[metafile.jade]
+flavors = ["jade_on"]
+[metafile.jade-addons-fabric]
+flavors = ["jade_on"]
+
+[metafile.xaeros-world-map]
+flavors = ["xaero_on"]
+[metafile.xaeros-minimap]
+flavors = ["xaero_on"]
+[metafile.way2wayfabric]
+flavors = ["xaero_on"]

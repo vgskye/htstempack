@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-1.20-0.7.29.75.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/uBdAr7AK/lootr-1.20-0.7.29.75.jar"
+hash-format = "sha512"
+hash = "a18d4275f7314d712a07ce852ae8fe79928393d26dcffb7d87f5f68433a353ab95c34f56ce3d9fc3e65e41a66641da9a0bf31f9776247370aac003dd7a9dc34b"
+
+[update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "uBdAr7AK"

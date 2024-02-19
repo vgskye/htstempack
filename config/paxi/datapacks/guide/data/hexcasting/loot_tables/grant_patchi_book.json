@@ -1,0 +1,20 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "eccentrictome:tome",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{'eccentrictome:mods':{botania:{0:{id:'botania:lexicon',Count:1b}},techreborn:{0:{id:'techreborn:manual',Count:1b}},hexcasting:{0:{id:'patchouli:guide_book',Count:1b,tag:{'patchouli:book':'hexcasting:thehexbook'}}},adorn:{0:{id:'adorn:guide_book',Count:1b},1:{id:'adorn:traders_manual',Count:1b}},ae2:{0:{id:'ae2:guide',Count:1b}}}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

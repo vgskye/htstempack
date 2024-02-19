@@ -1,0 +1,18 @@
+name = "Inventory Management"
+filename = "inventorymanagement-1.3.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/iYujfjuN/inventorymanagement-1.3.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "fcafc9bf8aa6c8d033b599acbf21cfb75e7e44e054523d24c18928e3c4135a9fbee5f403043dbb2b84ba9809d4dc67fcfab5fbe3e490a315624370c3cf09e363"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "iYujfjuN"
+
+[option]
+optional = true
+default = true
+description = "The inventory management buttons."

@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-9.1.13-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/whUFAS71/architectury-9.1.13-fabric.jar"
+hash-format = "sha512"
+hash = "3fb2505c740d9d104dc8f2eb66d53739e1d8fd1be0bab1b0c30024229de1d2def84bdc88e1e48163907bccb0c52d076ae2625181e2b4faa6695b7f6fecdc9cff"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "whUFAS71"
