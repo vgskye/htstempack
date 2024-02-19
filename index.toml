@@ -6,11 +6,11 @@ hash = "c076d17125f591e545a977dcc98d9b1cc0d1483214b038abd324565329ddd8f4"
 
 [[files]]
 file = "config/mod-loading-screen/background.png"
-hash = "3da6255cbc03814ef618d3ddfd94927dd1aa2c350b79bb31e924233ff63af76c"
+hash = "9b6d634baf32bb73e07d2b8ba8bb12131b6531d7a00d751956e155b361b081ba"
 
 [[files]]
 file = "config/mod-loading-screen/icon.png"
-hash = "3adec20c54bf5522c4df9e8973567d6369f1b7b834a11085bf9fcd428b61ee4e"
+hash = "f2ce3d115cd5d6a0808ec6f05e173d97e8f5aaff2128464b521f423772821603"
 
 [[files]]
 file = "config/paxi/datapacks/guide/data/hexcasting/loot_tables/grant_patchi_book.json"
@@ -501,6 +501,11 @@ hash = "b6578f676eb168bcd878f45137e0ac932496879f698d38e4bcaffe3a03a6264c"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
+metafile = true
+
+[[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "3c90a7919068666410f55a8bbf35e6964dabce02026ee4536410168a6f950381"
 metafile = true
@@ -606,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "17ea0ff9f5a3b11036d4a312cf87888f3535a02d461e356439816361199a2eb6"
 metafile = true
 
 [[files]]
