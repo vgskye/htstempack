@@ -1,6 +1,6 @@
 name = "Almost Unified"
 filename = "almostunified-fabric-1.20.1-0.7.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/p33YZ9DO/almostunified-fabric-1.20.1-0.7.2.jar"

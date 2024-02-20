@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "3a1d5b4c716f75d11551659e4dc6ec7361241f017cd507cdce92b1387ccb20a0"
+hash = "0b6de6b3f71f5171e4d5dcb495d51f3a0872a9c969238254b66af4063d7001e8"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "e948385136e0f372f4a8b35f04221b4cc5e3786ce498fc321a394ad1258dc032"
+hash = "9489e84fa1b95dfaed50d12d01094b6c424124d8153a36303c06b6581d72899f"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "5699f373776cb44fabaef74a218460de424ba231becf849cde327fa9a72f6cec"
+hash = "cc77533ed571cefd190b5320cb909bf54fe2b158e389ec2005f7767026395684"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+hash = "7fa8795248f8813dbda62b9ef3e3f718368857ad1b0498362ea11bb1399bd229"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/portable-crafting.pw.toml"
-hash = "e4c57c278c39f7aa62abc6eb2ea81a3d90e272a0b4cc8db7e5223f90f3249afa"
+hash = "407a4c329a01a5395b1384d5363a7a87393dec1f61ca18308c9c6f3a8012abd5"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickbench.pw.toml"
-hash = "508314cbf07e50853d314c40ffe0dd1c545c558003ddb6467fa9dee8d191c57e"
+hash = "1dc97b5b4b47fb34a481ed93bc07f560607df6f9e68e60097974f018992454f3"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "17ea0ff9f5a3b11036d4a312cf87888f3535a02d461e356439816361199a2eb6"
+hash = "7f46c49d32ef1f03c60d9abcb563e3a5649908dbf83d37c67ad387444bd480ec"
 metafile = true
 
 [[files]]
@@ -710,12 +710,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "7a79b956ae03dc5f12cc66eaa5ddac541e50ada2e20340c06ea665a2d696c18b"
+hash = "42493b647c2049eebfd56bf80c25daca0705920f278cd521223c4376b2e52983"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+hash = "f30b7c49b72607c07fc8b3a06355d03ffdbb0b9d6d2e9bccbf994b8299cc8f5f"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "0ea1944ba4aed719b2b2a5fee2d6bb0cd6bf75b6e8d1f59bcc9b90fa27fed247"
+hash = "8308bd7ccd7a36bf3a541545338700223362d57ed77cd35b8c934a6f10cf195c"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "ec8ce418e6f543d01d2261b1da183cc08ea66826658db238ec79dd6854bbe061"
+hash = "ed7a6800f8a28e99074a9da57116e46a0003bef4a07733c20b55d0fe00d052c3"
 metafile = true
 
 [[files]]
