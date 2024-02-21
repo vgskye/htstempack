@@ -21,8 +21,8 @@ file = "config/paxi/datapacks/guide/pack.mcmeta"
 hash = "e73142d825e6715a5660ad689c7f4f526c1ad1bbc1c8168b3d73254703cbd331"
 
 [[files]]
-file = "config/quickerconnectbutton.json5"
-hash = "50d9d8f238482f8cb0ca9071a58140b04705d36d5a9b02a97187ad1cbeec4caa"
+file = "config/quickerconnectbutton.properties"
+hash = "d372d6d3f5bb42c3e6918e75b801871ffbcca1885bda1cc90447eec8499b783a"
 
 [[files]]
 file = "config/techreborn/misc.json"
