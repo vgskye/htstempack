@@ -481,9 +481,8 @@ hash = "b345c27d344b4ab88d605c82fa06baec0da3dde690d632793eea7e09a0dab232"
 metafile = true
 
 [[files]]
-file = "mods/iron-jetpacks-fabric.pw.toml"
-hash = "bab704f3471a44629a59b51a05149f1cdd0b70489737f423b3208301c0101776"
-metafile = true
+file = "mods/iron-jetpacks-0.4.7.jar"
+hash = "9b05274b320caeb99518849e74fb7f4d99da73966d7c2bb2837df462df6a548d"
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
