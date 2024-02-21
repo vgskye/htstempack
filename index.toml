@@ -124,6 +124,11 @@ hash = "a5b0d7d19648d7c5b4a1d619d2cde5ae014a62fa0ba722ff80eba572b2bf3847"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "3d6015d38e0b418305b3bb8014a132ecc67bb8dbbd332c6ed27dd79dbce37a77"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "2805711cdf03e87a5730418489698aac14344851c2538e6a21f855e6187d3098"
 metafile = true
@@ -836,4 +841,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "548772ed4c11f15dfac400681ba5893e73956b6daa9762ed57f5ad4bee05e041"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "72b1b53cf6907c9e1fd96e59c22d670f5f4c14677107f04fb682ac67100358d2"
 metafile = true
