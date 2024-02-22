@@ -184,6 +184,11 @@ hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "353406a1479060b583587a368a6d9687119feee93418caea7948607c2a6ecde8"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "9ffea3ea01bf9e2bdf6a99325af631e48adce56fd706e8c5603700b31f18f0f7"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "1f169c4e99727ed13a6ab2716f0968cf27f20767ee0d0788834c9d5eb097f384"
 metafile = true
 
 [[files]]
@@ -648,6 +658,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "6a7cc570546e0446b647ef2e335f48d18936260616a42a0219777292b849d720"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "7f46c49d32ef1f03c60d9abcb563e3a5649908dbf83d37c67ad387444bd480ec"
 metafile = true
@@ -748,6 +763,11 @@ hash = "e9bb469c9fd1632c5b17ff7bf48d5cda588fc771ef69be834d232ebf5c99d502"
 metafile = true
 
 [[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "d704c2e320d74d07606b615baf576f092e50da2df73c2c47706b8925bb2d5b0b"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "8308bd7ccd7a36bf3a541545338700223362d57ed77cd35b8c934a6f10cf195c"
 metafile = true
@@ -800,6 +820,11 @@ metafile = true
 [[files]]
 file = "mods/wireless-networks.pw.toml"
 hash = "cbb7956704ddfe38d627502628b47952f7295384a4e5062a57b2e83172f99024"
+metafile = true
+
+[[files]]
+file = "mods/worldborderfix.pw.toml"
+hash = "27a1f34c60a563aba739742de0d1a0042ab7a2b268536fddbb8aaab5881931af"
 metafile = true
 
 [[files]]
