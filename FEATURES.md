@@ -36,6 +36,7 @@ Things you will naturally discover is left out of this list.
 - Blåhaj: Take a guess.
 - Press Alt To Meow: Press `Alt` to meow.
 - Harvest with ease: Right click to harvest crops.
+- BlueMap: A 3d web world map. Available [here](https://htstem-smp-bluemap.pages.dev/).
 
 #### Decoration mods
 This is split off from Small mods cause there's a few in this alone
