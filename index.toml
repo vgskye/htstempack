@@ -13,12 +13,44 @@ file = "config/mod-loading-screen/icon.png"
 hash = "f2ce3d115cd5d6a0808ec6f05e173d97e8f5aaff2128464b521f423772821603"
 
 [[files]]
+file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/budding_amethyst.json"
+hash = "1525317174afc8a4bfe2dd2a28ed9020c0ea3c3b060c5f7ab593bb3987f2ba77"
+
+[[files]]
+file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/chipped_budding_quartz.json"
+hash = "d25a914363d4b0a8e47b8a22f277ce949756e5020a7d9462acb6b9c9ba3e3774"
+
+[[files]]
+file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/damaged_budding_quartz.json"
+hash = "3ea83591f21b4e11cf006031c971fd4598946d89620f1420ea0cab2264e73651"
+
+[[files]]
+file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/flawed_budding_quartz.json"
+hash = "70592c3c038ac0720a983f63b7c323322069b432c02eb1faffd8ec75eefc2d64"
+
+[[files]]
+file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/flawless_budding_quartz.json"
+hash = "ab9f22c56a749b28d5672338a57c3f27493c0a2900ffb839d9034fc164443680"
+
+[[files]]
+file = "config/paxi/datapacks/carry-budding/pack.mcmeta"
+hash = "16b72359cbd867fc9ba9299584cc59e0db98447c1b68c5a6a25e38ff4e10b1f2"
+
+[[files]]
 file = "config/paxi/datapacks/guide/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6c513cc1dd3106425a85d5e44be3d65cbd6ecc718be8a90b1a3eb138d46b264"
 
 [[files]]
 file = "config/paxi/datapacks/guide/pack.mcmeta"
 hash = "e73142d825e6715a5660ad689c7f4f526c1ad1bbc1c8168b3d73254703cbd331"
+
+[[files]]
+file = "config/paxi/datapacks/origin-orb-recipe/data/origin-orb-recipe/recipes/orb_of_origin.json"
+hash = "266ef57340c6fdff8dc02945199e347da9ec4db4a1e8a619abce1da2550dcc9e"
+
+[[files]]
+file = "config/paxi/datapacks/origin-orb-recipe/pack.mcmeta"
+hash = "2806a9063953de55baad9d6cfa26fdbcfc44fc7f4efd8f000391afd73dc5a65c"
 
 [[files]]
 file = "config/quickerconnectbutton.properties"

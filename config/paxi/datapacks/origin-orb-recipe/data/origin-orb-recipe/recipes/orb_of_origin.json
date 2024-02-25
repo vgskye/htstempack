@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#G#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:dyes"
+    },
+    "G": [
+      {
+        "tag": "c:gems"
+      },
+      {
+        "tag": "techreborn:gems"
+      }
+    ]
+  },
+  "result": {
+    "item": "origins:orb_of_origin"
+  }
+}
