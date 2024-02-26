@@ -220,6 +220,11 @@ hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "2d7427a2d8d000125cefb84a607c64f5ffd987f8585f992cfcb6f2824fc20b17"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
@@ -227,6 +232,16 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "1d917527790664d4d1ae80b112a8f98b7939dbfc2aad9a9c500dcc227687a963"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "035d7219ef724da2d3de112a75ccff2b657e71e59129f24d1b4ecf0c592ca61f"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "c54f957491d5a97b4314a750cf412026b853b509a739ac4b0d8e9d6397ab3ecc"
 metafile = true
 
 [[files]]
@@ -257,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "e13a41d2dc4a56cd457ee9850bd9dd496fc7ec2d5eeec0d9829df83fd6339d6a"
 metafile = true
 
 [[files]]
@@ -302,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "02509f5b7a5c46a9d07e53d8165bb7da6210468c4b6c4c5d26153bc5445556c1"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "2ef5e6dcdc7006215035b9fa02a1ad93654566df47383629f71b9fc79ada67e1"
 metafile = true
 
 [[files]]
@@ -402,6 +427,16 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "140fcbda88bc25a311967cdb387b1ba000c73abd2fec49a37701ff0dea79572b"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "dc084ce9eb142db2a2478e8a4aeb7a29264f244287d977262c73d6ed5f183b8b"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "21bdbce23d3cef1dca238e5797f4b87b1e3eb44c8c213e51cd73c51bf55cdced"
 metafile = true
 
 [[files]]
@@ -583,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8d3ccb7deec10f1b7de42ca8d312e9cc7653cbc0116bc09d462ad7f3a5ca13da"
 metafile = true
 
 [[files]]
@@ -779,6 +819,11 @@ hash = "7a2937c03ec5930838f5dd5f3aa37f514f5486ce476ee8c6bad62f29df3ca45f"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6ce165b2c9afb54b26a7f3fb53575f98197c30cb573d620eb54d065d049476a1"
+metafile = true
+
+[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "4458bcc23a41c5dd99885cb976cccf049ee5aa9af4a6d56c94fd205895ddeb8a"
 metafile = true
@@ -801,6 +846,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "8308bd7ccd7a36bf3a541545338700223362d57ed77cd35b8c934a6f10cf195c"
+metafile = true
+
+[[files]]
+file = "mods/the-open-sauce-toast-killer.pw.toml"
+hash = "c4dc3d3cc85f40a36ead2f24279d465da1c6ad776c901288e8e04ca5d0a77dc0"
 metafile = true
 
 [[files]]

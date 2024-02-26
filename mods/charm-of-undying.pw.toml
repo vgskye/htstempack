@@ -1,0 +1,13 @@
+name = "Charm of Undying"
+filename = "charmofundying-fabric-6.4.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5GyyYkp/versions/qxgJorhU/charmofundying-fabric-6.4.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ca23678e4fdad0e8f1427b9ff82cdce0135c0f25d4ceb4f6fc335b667490751ed8a99a3f9b14bd642bf4b68241c14813432e7b99554e2a9dc6250217192dee1d"
+
+[update]
+[update.modrinth]
+mod-id = "b5GyyYkp"
+version = "qxgJorhU"
