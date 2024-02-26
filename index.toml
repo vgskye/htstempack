@@ -13,6 +13,10 @@ file = "config/mod-loading-screen/icon.png"
 hash = "f2ce3d115cd5d6a0808ec6f05e173d97e8f5aaff2128464b521f423772821603"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "6b4036853612a2a30e97741d2eab4ebdbec2a891f6364dfcb810132cb901ac84"
+
+[[files]]
 file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/budding_amethyst.json"
 hash = "1525317174afc8a4bfe2dd2a28ed9020c0ea3c3b060c5f7ab593bb3987f2ba77"
 
