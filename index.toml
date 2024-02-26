@@ -200,11 +200,6 @@ hash = "00a2bcb4c19f7f82796b1e0c7fb3bb991953b78dd4a5f45009bf09258dcbd0fc"
 metafile = true
 
 [[files]]
-file = "mods/auto-config-updated-api.pw.toml"
-hash = "ce48a33cd91fb291ecbd686c98eaae69ef99f0e484b22f8fa2dfef0e9ed45cee"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "216df0b3334daa11a40aaf5e3a03d975b1c98555878071b236ee0c56c969f23b"
 metafile = true
@@ -558,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-jetpacks-0.4.7.jar"
-hash = "9b05274b320caeb99518849e74fb7f4d99da73966d7c2bb2837df462df6a548d"
+hash = "99e2dab8eaa3fb8f16a4cd0078a71ca3886d2bf487808e5ea5e717b187d06100"
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
