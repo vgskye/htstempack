@@ -203,7 +203,8 @@ entityClaimBarrierList = []
 # For example ["minecraft:lever", "minecraft:*_button", "break$minecraft:*_button", "break$minecraft:(*_|)sand"]
 forcedBlockProtectionExceptionList = [
     "minecraft:crafting_table",
-    "#fwaystones:waystones"
+    "#fwaystones:waystones",
+    "yigd:grave",
 ]
 # Custom groups of blocks that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple blocks and block tags.
 # A group without a prefix creates a player config option for the right-click interaction with the group blocks. The format for a block group is <group ID>{<blocks/tags/wildcards separated by ,>}.
