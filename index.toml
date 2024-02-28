@@ -134,6 +134,10 @@ hash = "4d91df6449dc9456bf5e74c12bbca24c101038554326173a7fcdc2fbc2047e63"
 metafile = true
 
 [[files]]
+file = "mods/Botania-1.20.1-443-FABRIC-SNAPSHOT.jar"
+hash = "d357a3baa3e4caa0c82b02645d02f7a2a9f189ec4c4aab98cd58453f48a8e45e"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "040d4082526cfde97d2a8b16f1e95f102220a8ef274afb1939398217b1f645ea"
 metafile = true
@@ -226,11 +230,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "1d917527790664d4d1ae80b112a8f98b7939dbfc2aad9a9c500dcc227687a963"
 metafile = true
 
 [[files]]
