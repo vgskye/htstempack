@@ -1,0 +1,13 @@
+name = "TabTPS"
+filename = "tabtps-fabric-mc1.20.1-1.3.18.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cUhi3iB2/versions/fzhSybEp/tabtps-fabric-mc1.20.1-1.3.18.jar"
+hash-format = "sha512"
+hash = "86e79de42d2ea5fec78deda88eb09f9bb9dbecc9c02d2558bb9f1b759ed272e76e432e3ce9b37064c712c1b9ed2f408a38e676e21c1a29521b331cab6b62586b"
+
+[update]
+[update.modrinth]
+mod-id = "cUhi3iB2"
+version = "fzhSybEp"

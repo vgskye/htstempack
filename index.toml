@@ -570,6 +570,11 @@ hash = "909da028965a2a757a7112bd5c1034e534af326d6c73bbaf5dcdab886b47c8d5"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
@@ -577,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "d20b17399ed92c077a78d33b517b8de0ce3b9d2ba1a19f010eccb67af4057c63"
 metafile = true
 
 [[files]]
@@ -828,6 +838,11 @@ hash = "4458bcc23a41c5dd99885cb976cccf049ee5aa9af4a6d56c94fd205895ddeb8a"
 metafile = true
 
 [[files]]
+file = "mods/tabtps.pw.toml"
+hash = "998f2d689fab3277a6c3d095a045d9f86da573a89d9f33eebc80a03c67a364e5"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "fc23853012cc179966d17eb43db33cb986581a4f64fe0cef7742cf6b7fe4e7f3"
 metafile = true
@@ -900,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "38a9ccf8e6b30dc81a3de335cdc1f7489a1baa0c0d3f993151efa10cb4de0ae3"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
