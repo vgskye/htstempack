@@ -1,0 +1,18 @@
+name = "EMIzed Botany Pots"
+filename = "emized-botany-pots-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhMKi1nq/versions/8zvSgkjC/emized-botany-pots-1.0.0.jar"
+hash-format = "sha512"
+hash = "112371c26e23735d58b1ba7bb13e4e4d53d1ea3ab8576258353cf8afaa736466b237e513e442bfa70b839bfb891622d22258dfca8f153232957813d70f7d2aa4"
+
+[update]
+[update.modrinth]
+mod-id = "IhMKi1nq"
+version = "8zvSgkjC"
+
+[option]
+optional = true
+description = "EMI Addon. disable with EMI."
+default = true

@@ -398,6 +398,11 @@ hash = "34acc65b884f5bb73ccca3f0a3c9ae08b99372898779aa040ae395dd8d9d1528"
 metafile = true
 
 [[files]]
+file = "mods/emized-botany-pots.pw.toml"
+hash = "8881de87e0d02f6ed90318e506980380497102fffafa1bbf578a647c86b242d4"
+metafile = true
+
+[[files]]
 file = "mods/emuno.pw.toml"
 hash = "a78cf42185e84fc5200900c1e56dcefb51aad32ade605d3ba630bfc7b297d2aa"
 metafile = true

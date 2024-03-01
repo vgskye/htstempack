@@ -30,6 +30,8 @@ flavors = ["emi_on"]
 flavors = ["emi_on"]
 [metafile.extra-mod-integrations]
 flavors = ["emi_on"]
+[metafile.emized-botany-pots]
+flavors = ["emi_on"]
 
 [metafile.jade]
 flavors = ["jade_on"]
