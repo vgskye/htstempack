@@ -7,7 +7,7 @@
 1. Launch the instance, select optional mods
 1. The obvious button that says "Connect"
 1. Follow the disconnect message
-1. Read [the introduction](FEATURES.md) to see what's present
+1. Read [the introduction](FEATURES.md) to see what's present, plus [Tips & Tricks](TWEAKS.md) for my personal recommendations.
 
 (This pack includes a few not yet released or patched mods. for a list and the details of where they were built from, check [here](SOURCES.md).)  
 (Also, this pack is based off [Additive](https://modrinth.com/modpack/additive); Thanks to devin for making a good base!)

@@ -2,6 +2,8 @@
 
 ## Technical
 
+For more things you might want, check out [Tips & Tricks](TWEAKS.md)!
+
 ### Graphics
 Shaders will tank performance near Create setups, due to shaders being mutually exclusive with Create's rendering optimizations.
 There exists [a mod](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) that tries to fix this, but it is untested and may result in crashes or rendering bugs.
