@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "0f0c6fb73cd952ee98aebd1444cadaf2f0e4277ef31b53f4e7fc294c97f77846"
+hash = "1afc61a07ba262dc7ed11d81e965ebd66f1b28881194dbdb9a411ec5299585f3"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
