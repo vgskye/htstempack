@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "0f0c6fb73cd952ee98aebd1444cadaf2f0e4277ef31b53f4e7fc294c97f77846"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0c8588086bfcfb76d9efea261814579fd6f5afb0e240328561c13136497941ef"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "c076d17125f591e545a977dcc98d9b1cc0d1483214b038abd324565329ddd8f4"
 
@@ -646,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas-fabric-1.20.1-0.1.0-3.jar"
 hash = "d36cfd9981e6e9e29c615ccf5114026311c4abe73dae17b8fc6334d6c793a936"
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"

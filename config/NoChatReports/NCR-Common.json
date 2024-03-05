@@ -1,0 +1,7 @@
+{
+  "demandOnClientMessage": "You don't have No Chat Reports, which is included in this pack; is your install corrupt?",
+  "demandOnClient": true,
+  "convertToGameMessage": false,
+  "addQueryData": false,
+  "enableDebugLog": false
+}
