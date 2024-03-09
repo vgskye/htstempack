@@ -340,11 +340,6 @@ file = "mods/create-fabric-0.5.1-f-build.1332+mc1.20.1.jar"
 hash = "c21bf54532ea64a8cb719b044544afa23fd4d010652b23e873528056b20e3935"
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "3b4d13a1a81b4e90c829eb9dc11902f74169090e418dce59ccb7b1cb7b3585f5"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "547e1d9e035b0e94ba0735bc218add3e314525f9976040259e54975a3366bee7"
 metafile = true
