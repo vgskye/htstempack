@@ -13,6 +13,10 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "c076d17125f591e545a977dcc98d9b1cc0d1483214b038abd324565329ddd8f4"
+
+[[files]]
 file = "config/mod-loading-screen/background.png"
 hash = "9b6d634baf32bb73e07d2b8ba8bb12131b6531d7a00d751956e155b361b081ba"
 
@@ -336,10 +340,6 @@ hash = "2ef5e6dcdc7006215035b9fa02a1ad93654566df47383629f71b9fc79ada67e1"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-0.5.1-f-build.1332+mc1.20.1.jar"
-hash = "c21bf54532ea64a8cb719b044544afa23fd4d010652b23e873528056b20e3935"
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3b4d13a1a81b4e90c829eb9dc11902f74169090e418dce59ccb7b1cb7b3585f5"
 metafile = true
@@ -352,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "9ffea3ea01bf9e2bdf6a99325af631e48adce56fd706e8c5603700b31f18f0f7"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "1f169c4e99727ed13a6ab2716f0968cf27f20767ee0d0788834c9d5eb097f384"
 metafile = true
 
 [[files]]
@@ -498,6 +503,10 @@ metafile = true
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "5a8192cd49c550ee71786080679660576b3a86e8b4e6c979c1f5cd3c2e6b138e"
 metafile = true
+
+[[files]]
+file = "mods/flywheel-fabric-1.20.1-0.6.9.jar"
+hash = "690e2757ecdf810f38a61f9073d6eee67feae9d374f6628481c0e59f1e9cfc1f"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
