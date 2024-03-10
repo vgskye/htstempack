@@ -16,7 +16,7 @@
     "//heavyTiles": "More complex Tile Entities slow down the player more",
     "heavyTiles": true,
     "//pickupAllBlocks": "Allow all blocks to be picked up, not just Tile Entites. White/Blacklist will still be respected.",
-    "pickupAllBlocks": false,
+    "pickupAllBlocks": true,
     "//slownessInCreative": "Whether Blocks and Entities slow the creative player down when carried",
     "slownessInCreative": true,
     "//pickupHostileMobs": "Whether hostile mobs should be able to picked up in survival mode",

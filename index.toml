@@ -14,7 +14,7 @@ hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "2dd7dccda03c1bcb7150dad4bde5de2a89825c7d104db1c98235bae2d4ab75d0"
+hash = "46e5318e69a5e27ad2a8c1b932d10a361058e8609c3a4a9c0be280bd2281f77b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/disharmony.pw.toml"
-hash = "027389a217558da8b47dba9653da53ba1bea8d7015a828686ee6db7cf802a29d"
+hash = "2b0c34d4713d9440a2599cd29390499a85ca86ced96ab5183ed4d85d06b27625"
 metafile = true
 
 [[files]]
