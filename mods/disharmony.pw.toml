@@ -1,0 +1,13 @@
+name = "Disharmony"
+filename = "disharmony-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1hjskOW/versions/qsYlC7GL/disharmony-1.0.0.jar"
+hash-format = "sha512"
+hash = "97abe1f4d2df8ba337578cf47e891d5eb9d663827e1f08de8927ff256a244740b765f6f4fb74340f84e66d3910b05fd8f6c5219e01a65d7b682978d5cd82150f"
+
+[update]
+[update.modrinth]
+mod-id = "u1hjskOW"
+version = "qsYlC7GL"
