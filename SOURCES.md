@@ -6,6 +6,7 @@
 - `mods/iron-jetpacks-0.4.7.jar`: Tip-of-tree build from [my fork](https://github.com/vgskye/IronJetpacks)
 - `mods/moreiotas-fabric-1.20.1-0.1.0-3.jar`: Tip-of-tree build from [my fork](https://github.com/TeawieTheMods/MoreIotas)
 - `mods/paucal-fabric-1.20.1-0.6.0.jar`: Probably from upstream hex's `libs/` folder? not sure
+- `mods/tessiefix-0.0.0-rolling.jar`: Tip-of-tree build from [here](https://github.com/vgskye/tessiefix)
 
 # Other binary blobs, for completeness' sake
 - `config/mod-loading-screen/background.png`: Own work, zopflipng-compressed on original created with KolourPaint.

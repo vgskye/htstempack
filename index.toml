@@ -888,6 +888,10 @@ hash = "8308bd7ccd7a36bf3a541545338700223362d57ed77cd35b8c934a6f10cf195c"
 metafile = true
 
 [[files]]
+file = "mods/tessiefix-0.0.0-rolling.jar"
+hash = "4ac9c8cc9eda515d91a43e48b51134675f77124177e49b2b63c8178914861cd2"
+
+[[files]]
 file = "mods/the-open-sauce-toast-killer.pw.toml"
 hash = "c4dc3d3cc85f40a36ead2f24279d465da1c6ad776c901288e8e04ca5d0a77dc0"
 metafile = true
