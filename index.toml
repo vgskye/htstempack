@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
-hash = "795591aaae3770ef26590df99289ee3c6435cf3d9af767a827a8088537b9d89c"
+hash = "db4fc66e8c9a66ec8647aebc1d963baf2bad34b23125ddc56dc7c1a8308b7a44"
 metafile = true
 
 [[files]]
