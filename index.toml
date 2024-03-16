@@ -30,7 +30,7 @@ hash = "f2ce3d115cd5d6a0808ec6f05e173d97e8f5aaff2128464b521f423772821603"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "d7c7bdfdfc90e88fa76f659a94d1a8cc5b9f90a4f24df4c099cf05de127d7f03"
+hash = "38545cd49c54d569be2a4613898da15a47dc0a0308b32ad317a051f920fc59c0"
 
 [[files]]
 file = "config/paxi/datapacks/carry-budding/data/carry-budding/carryon/scripts/budding_amethyst.json"
