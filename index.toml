@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/tessiefix-0.0.0-rolling.jar"
-hash = "4ac9c8cc9eda515d91a43e48b51134675f77124177e49b2b63c8178914861cd2"
+hash = "4ae7c41a124da73e9992bafa0de879101b853484bfadf382497873ef017e5511"
 
 [[files]]
 file = "mods/the-open-sauce-toast-killer.pw.toml"
